@@ -5,7 +5,7 @@
 ### Kantar Sifo Mobile Analytics SDK for Android
 
 - **[Overview][]**
-    - [What’s new?][]
+    - [What’s new?](What’s-new?)
     - [SDK contents][]
 
 - **[Getting started][]**
